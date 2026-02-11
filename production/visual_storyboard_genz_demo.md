@@ -1,0 +1,19 @@
+# 🎬 VISUAL STORYBOARD DEMO
+**Project:** Gen Z - Quarter-Life Crisis (Why you feel left behind)
+**Profile:** Gen Z / Dark Academia
+**Style Suffix:** `dark academia aesthetic, moody, rain-soaked, lo-fi vibe, cinematic lighting, muted colors, film grain --ar 16:9 --v 6.0`
+
+| Time | Script Context | Visual Idea (Metaphor/Action) | AI Prompt (Midjourney V6) |
+| :--- | :--- | :--- | :--- |
+| **0:00 (Hook)** | "Bạn 22 tuổi. Bạn mở mắt dậy lúc 7 giờ sáng. Vớ lấy điện thoại." | **POV / Top-Down:** A young person lying in a messy bed, room is dark, face illuminated ONLY by the harsh blue light of a smartphone. Claustrophobic. | `/imagine prompt: top-down shot of a young person lying in a messy bed in a dark room, face illuminated by the harsh blue glow of a smartphone screen, clutter, melancholic atmosphere, cinematic lighting, dark academia aesthetic, lo-fi vibe, muted colors --ar 16:9 --v 6.0 --no bright lights` |
+| **0:30 (Agitation)** | "Lướt Instagram. Xe hơi, Bằng tốt nghiệp, Du lịch sang chảnh." | **Montage / Surreal:** A chaotic whirlwind of "success symbols" (car keys, plane tickets, graduation caps) spinning around the viewer, creating a sense of dizziness. | `/imagine prompt: a surreal whirlwind of success symbols floating in a dark void: luxury car keys, graduation caps, plane tickets, champagne glasses, motion blur, overwhelming, chaotic, dramatic lighting, dark academia aesthetic, moody --ar 16:9 --v 6.0` |
+| **1:30 (Metaphor)** | "Cuộc đời là một tảng băng trôi. Bạn đang so sánh phần chìm xấu xí..." | **Conceptual:** A massive iceberg in a dark, stormy ocean. The tip is white and perfect, the submerged part is jagged, dark, and massive. | `/imagine prompt: a massive iceberg floating in a dark deep ocean, only the small white tip is visible above water, the submerged part is massive jagged and dark, stormy weather, cinematic realism, vast scale, dark academia aesthetic, moody --ar 16:9 --v 6.0` |
+| **4:00 (Direct Exp)** | "Hãy tưởng tượng bạn đang đứng trong một nhà ga khổng lồ. Xung quanh là ngàn vạn chiếc đồng hồ..." | **Dreamlike / Atmospheric:** A vast, foggy train station hall. Thousands of clocks of different sizes and styles hanging in the air. Shafts of light piercing the fog. | `/imagine prompt: a surreal giant train station hall filled with thousands of clocks hanging in the air, different sizes, foggy atmosphere, volumetric shafts of light, mysterious, dreamlike, cinematic, dark academia aesthetic, highly detailed --ar 16:9 --v 6.0` |
+| **7:45 (Kintsugi)** | "Những vết nứt chờ được dát vàng. Kintsugi." | **Macro / Texture:** Extreme close-up of a broken black ceramic bowl being mended with glowing liquid gold. Focus on the texture of the gold vein. | `/imagine prompt: extreme close-up of a broken black ceramic bowl being mended with glowing liquid gold veins, kintsugi art, wabi-sabi, dramatic rim lighting, high texture detail, focus on the gold, dark academia aesthetic, cinematic --ar 16:9 --v 6.0` |
+| **9:30 (Ending)** | "Một ngọn nến đang cháy trong đêm." | **Loop / Symbolism:** A single candle burning steadily in a dark room. Raindrops on the window in the background. Peaceful. | `/imagine prompt: a single candle burning steadily in a dark room, soft warm glow, raindrops on a window pane in the background, bokeh, peaceful, solitude, cinematic lighting, dark academia aesthetic, lo-fi vibe --ar 16:9 --v 6.0` |
+
+---
+**💡 PRODUCTION NOTES:**
+- **Gen Z Vibe:** Keep the lighting "Low Key" (mostly dark with highlights). Avoid overly bright or cheerful colors.
+- **Pacing:** The visuals for the "Agitation" phase should be fast-paced (staccato edits), while the "Direct Experience" (Station) should be slow pans.
+- **Runway Gen-2 Tips:** For the clocks scene, use `[Camera Pan Right] floating clocks in fog` to create specific movement.
