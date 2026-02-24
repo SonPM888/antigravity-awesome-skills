@@ -2,11 +2,11 @@
 description: Quy trình 3 bước để tạo kịch bản YouTube dài trên 15 phút (1500-2000 từ Voicescript)
 ---
 
-# 🎞️ Quy trình viết kịch bản Long-form (1500+ từ)
+# 📝🎬 Quy trình viết kịch bản Long-form (1500+ từ)
 
 Quy trình này giải quyết lỗi AI viết ngắn bằng cách chia nhỏ quá trình viết thành 3 giai đoạn độc lập.
 
-## 🛠️ Bước 1: Khởi tạo & Phân tích (Phase 1-3)
+## 🔄 Bước 1: Khởi tạo & Phân tích (Phase 1-3)
 **Lệnh:** 
 > "Dùng profile [Tên Profile] và file [Tên File].research.md, hãy lập dàn ý chi tiết (Outline) cho 5 chương. Đảm bảo mỗi chương có một 'Conflict' (Xung đột) hoặc 'Insight' riêng biệt. Chưa viết lời thoại ngay."
 

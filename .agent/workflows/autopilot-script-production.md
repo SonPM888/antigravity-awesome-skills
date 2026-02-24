@@ -2,9 +2,9 @@
 description: Workflow Autopilot V3.0 (Compact Edition)
 ---
 
-# 🤖 YouTube Production Autopilot V3.0
+# 🎬 YouTube Production Autopilot V3.0
 
-## 🛠️ THE CORE LOOP
+## 🔄 THE CORE LOOP
 **STEP 0: Conceptualize**
 - Use `brainstorming` to propose **3 unique angles**.
 - **MANDATE:** Define Audience Profile & Core Soul (Silent Pain or Straw Man).
